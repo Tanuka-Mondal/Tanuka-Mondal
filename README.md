@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanuka</h1>
-<h3 align="center">Python Learner</h3>
+<h3 align="center">ECE Undergrad</h3>
 
 - 🔭 I’m currently working on **Python Project**
 
