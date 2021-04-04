@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanuka</h1>
 <h3 align="center">ECE Undergrad</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuka-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="tanuka-mondal" /> </p>
+
 - 🔭 I’m currently working on **Python Project**
 
 - 🌱 I’m currently learning **Python**
@@ -21,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuka-mondal&show_icons=true&locale=en" alt="tanuka-mondal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&" alt="tanuka-mondal" /></p>
+
