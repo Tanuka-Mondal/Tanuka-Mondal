@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuka-mondal&show_icons=true&theme=radical&locale=en&layout=compact" alt="tanuka-mondal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuka-mondal&show_icons=true&locale=en" alt="tanuka-mondal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuka-mondal&show_icons=true&theme=tokyonight&locale=en" alt="tanuka-mondal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&" alt="tanuka-mondal" /></p>
 
