@@ -24,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=onedark" alt="tanuka-mondal" /></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanuka-mondal&repo=python)](https://github.com/Tanuka-Mondal/Python)
