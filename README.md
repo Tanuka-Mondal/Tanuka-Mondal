@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/tanuka-mondal-923051199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanuka-mondal-923051199" height="30" width="40" /></a>
 <a href="https://fb.com/tanuka.mondal.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanuka.mondal.37" height="30" width="40" /></a>
 <a href="https://instagram.com/nightbird_tinni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nightbird_tinni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanukamondal01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tanukamondal01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanukamondal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank" alt="tanukamondal01" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuka-mondal&show_icons=true&theme=radical&locale=en&layout=compact" alt="tanuka-mondal" /></p>
