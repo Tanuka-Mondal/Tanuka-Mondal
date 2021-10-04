@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuka-mondal&show_icons=true&theme=tokyonight&locale=en" alt="tanuka-mondal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&" alt="suvadeep2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=tokyonight" alt="tanuka-mondal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=onedark" alt="tanuka-mondal" /></p>
 
