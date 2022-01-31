@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuka-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="tanuka-mondal" /> </p>
 
-- 🔭 I’m currently working on **Python Project**
+- 🔭 I’m currently working on **Fuzzy controller**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Fuzzy Logic**
 
 - 📫 You can reach me through **tanukamondal01@gmail.com**
 
