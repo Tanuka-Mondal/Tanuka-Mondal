@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=tokyonight" alt="tanuka-mondal" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuka-mondal&theme=radical" alt="tanuka-mondal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuka-mondal&theme=radical&column=7&margin-w=10" alt="tanuka-mondal" /></a> </p>
 
 
 [![Tanuka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanuka-mondal&&theme=xcode)](https://github.com/tanuka-mondal)
