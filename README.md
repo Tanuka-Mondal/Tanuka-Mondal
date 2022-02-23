@@ -1,3 +1,4 @@
+![](https://github.com/Tanuka-Mondal/Tanuka-Mondal/blob/main/Tanuka%20Mondal.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tanuka</h1>
 <h3 align="center">ECE Undergrad || Tech Lover || Programming Enthusiast || Love to learn new things</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/e0/20/c8e020a99453aa59a9ceee168c8b79a1.gif">
