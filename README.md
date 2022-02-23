@@ -25,6 +25,8 @@
 <a href="https://www.hackerrank.com/tanukamondal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanukamondal01" height="30" width="40" /></a>
 </p>
 
+[![Tanuka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanuka-mondal&&theme=xcode)](https://github.com/tanuka-mondal)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuka-mondal&show_icons=true&theme=radical&locale=en&layout=compact" alt="tanuka-mondal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanuka-mondal&show_icons=true&theme=tokyonight&locale=en" alt="tanuka-mondal" /></p>
