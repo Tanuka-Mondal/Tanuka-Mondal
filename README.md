@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanuka-mondal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuka-mondal&theme=radical&column=7&margin-w=10" alt="tanuka-mondal" /></a> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanuka-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
