@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuka-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="tanuka-mondal" /> </p>
 
-- 🔭 I’m currently working on **IoT Projects**
+- 🔭 I’m currently working on **Devops Engineering**
 
-- 🌱 I’m currently learning **Fuzzy Logic**
+- 🌱 I’m currently learning **Flask, Docker**
 
 - 📫 You can reach me through **tanukamondal01@gmail.com**
 
