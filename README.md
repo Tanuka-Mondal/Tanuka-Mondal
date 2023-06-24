@@ -29,7 +29,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![]([https://github-contributor-stats.vercel.app/api?username=tanuka-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuka-mondal&theme=radical&column=7&margin-w=10))
+![](https://github-contributor-stats.vercel.app/api?username=tanuka-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
