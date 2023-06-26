@@ -34,4 +34,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Tanuka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanuka-mondal&&theme=xcode)](https://github.com/tanuka-mondal)
-![Tanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanuka-mondal&hide=contribs,prs)
+
