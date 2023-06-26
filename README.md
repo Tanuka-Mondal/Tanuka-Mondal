@@ -24,6 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tanuka-mondal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanuka-mondal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanuka-mondal&theme=ocean_dark)
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuka-mondal&theme=radical&column=7&margin-w=10" alt="tanuka-mondal" /></a> </p>
