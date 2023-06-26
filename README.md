@@ -23,7 +23,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanuka-mondal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanuka-mondal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanuka-mondal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanuka-mondal&theme=ocean_dark)
 
 ## 🏆 GitHub Trophies
