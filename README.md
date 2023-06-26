@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tanuka-mondal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanuka-mondal&theme=radical&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanuka-mondal&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanuka-mondal&theme=radical&utcOffset=5.5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanuka-mondal&theme=radical&utcOffset=5.3)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanuka-mondal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanuka-mondal&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanuka-mondal&theme=radical)
