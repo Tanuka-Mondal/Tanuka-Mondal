@@ -37,5 +37,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Tanuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanuka-mondal&theme=dracula)](https://github.com/tanuka-mondal/github-readme-activity-graph)
 [![Tanuka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanuka-mondal&&theme=xcode)](https://github.com/tanuka-mondal)
 
